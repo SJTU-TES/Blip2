@@ -1,0 +1,6 @@
+peft==0.9.0
+Pillow==10.3.0
+Requests==2.31.0
+torch==1.13.0+cu117
+tqdm==4.66.2
+transformers==4.39.0.dev0
