@@ -29,7 +29,7 @@ pip install transformers==4.39.0
 
 ### 2.1 Download Pre-trained Files
 
-Download Latte's pre-trained files [here](https://huggingface.co/Salesforce/blip2-opt-2.7b).
+Download Blip2's pre-trained files [here](https://huggingface.co/Salesforce/blip2-opt-2.7b).
 
 ### 2.2 Just try it!
 
